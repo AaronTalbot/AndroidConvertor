@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Converter</string>
+    <string name="nav_header_subtitle">Welcome to Aaron Talbots 2nd Project</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_temperature">Temperature</string>
+    <string name="menu_length">Length</string>
+    <string name="menu_settings">Settings</string>
+    <string name="how_are_you_liking_this_app">How are you liking this app?</string>
+    <string name="save_rating">Save Rating</string>
+    <string name="convertor">Convertor</string>
+
+</resources>
